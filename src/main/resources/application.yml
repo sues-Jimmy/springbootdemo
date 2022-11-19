@@ -1,0 +1,5 @@
+mybatis-plus:
+  global-config:
+    db-config:
+      logic-not-delete-value: 0
+  mapper-locations: mapper/*.xml
